@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: palevioletred;
+    font-weight: bolder;
+}
+
+ol{
+    color: blueviolet;
+    font-weight: bold;
+    font-style: italic;
+}
+
+ul{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
